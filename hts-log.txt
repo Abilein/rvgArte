@@ -1,0 +1,275 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Jul 2020 23:51:35 at https://camaloon.es/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://camaloon.es/ -O1 "D:\Usuario\Documents\Atenas\CAMALOON" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:53:56	Error: 	"Forbidden" (403) at link https://camaloon.es/packs/ (from https://camaloon.es/)
+00:23:20	Warning: 	Warning: store application/octet-stream without scan: D:/Usuario/Documents/Atenas/CAMALOON/camaloon.es/assets/footer/spinner-circle-84c283a083aef593a30cb757c9da611d0ace9a08d370efa6d0e693a367c7bccc.svg
+00:51:31	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/medium/363/file/b44c193d991a31ab97f1bfa3d52f082b.jpg
+00:51:31	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/medium/362/file/b59882bb149d4018d43636f3bcc9f8ab.jpg
+00:51:31	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/medium/366/file/c551cfcae96f38ecc87efdd3377d0658.jpg
+00:51:31	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/medium/364/file/8544c66d56aef97fcc78dc0ee568fc85.jpg
+00:51:31	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/medium/365/file/66b86d9cc8e44fe2f6848982271c218e.jpg
+00:51:31	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/90/2036/Mirror_76_9351_Lum.jpg
+00:51:31	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/90/2037/Mirror02-02-04.jpg
+00:51:31	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/90/2042/Mirror02-03-03.jpg
+00:51:32	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/90/2039/Mirror_Fin_25489.jpg
+00:51:32	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/90/2041/Mirror_Wedd_6721-1.jpg
+01:08:40	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/3437/image/bad_pin_ro_56_red_mat_4264_longface_small-35d83ca875db5627e9b8634af90b70cb.jpg
+01:08:40	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/3438/image/bad_pin_ro_72_red_mat_0394_xxl-small-9c4a956f6570518f439bef407904efdf.jpg
+01:08:40	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/79/3208/Badge_R_Fin_25489_Mockup_RECT3.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/79/3205/Badge_R_Fin_25489_Mockup_RECT3.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/79/1752/Badge_R_Fin_25489_RECT3_100x75.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/79/1749/Badge_R_Finish_Fam_5028_100x75.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/3439/image/bad_pin_ro_family_mult_glos_0131_blend_small-2b5ddd8ca3ed5acdaa10a888ed8eef76.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/3440/image/bad_pin_ro_32_mult_mat_0094_mockup-f016d7ab6cf771082772df0042f74ca3.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/80/1760/Badge_Sq_Fin_25415_100x75.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/80/3209/Badge_Sq_Fin_25415_Mockup.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/3441/image/bad_pin_sq_32_blue_mat_4737_coolmoon_small-b906344849c6977152a2a58bcfb78400.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/80/3210/Badge_Sq_Fin_25415_Mockup.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/3446/image/bad_pin_family_multi_multi_1871-e9bfcb4c7dfb7a3c3f6abda9bdf949c0.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/3442/image/bad_pin_sq_whit_mat_5239_auau-4d7313178d6915bc6c8451957142b895.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/84/1768/Badge_Oval_Silver_Sam4755_100x75.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/3444/image/bad_pin_ov_sil_4755_lebriop-6faa2d2475ffa105a59850972a7432e8.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/3445/image/badge_ov_5948_greenbike-958eb833562e123f32c9e5d840e5c0e5.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/3449/image/bad_pin_family_multi_multi_1871-e9bfcb4c7dfb7a3c3f6abda9bdf949c0.jpg
+01:08:41	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/84/1769/Badge_Ov_Celeb_6948_V1_100x75.jpg
+01:08:42	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/12395/image/bg_tri_big_01-ddb43d936817d32fe6bb3326b245d76b.jpg
+01:08:42	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/12389/image/bg_tri_big_02-7c3bc078dce1a252714e2982282da43c.jpg
+01:08:42	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/12379/image/bg_penta_01-4187f5d7d265915151ce3394ce06d65f.jpg
+01:08:42	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/12385/image/bg_penta_02-e108f8911d4ab8752f948080c5cb4162.jpg
+01:08:42	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/12392/image/bg_hexa_01-aef909c4b3110bff40ca14d99dd398ef.jpg
+01:08:42	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/12387/image/bg_tri_hexa_02-6bce4c9c156fb0e67437cd3c03afc414.jpg
+01:09:38	Warning: 	Retry after error 500 (Internal Server Error) at link https://camaloon.es/merchandising-verano?filters%5B%5D=null&filters%5B%5D=&page=2 (from https://camaloon.es/merchandising-verano?filters%5B%5D=null)
+01:09:38	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/medium/357/file/tshirt-sizes-white-303e0660703934d64723583e040329a2.png
+01:09:46	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/medium/632/file/67cf31833495e670ec06a4b681f1d95f.png
+01:09:46	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/slideimage/11248/image/sample_pack_2-8f7112166355f75a974036f3bc89edb7.jpg
+01:09:46	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/slideimage/11247/image/sample_pack_1-06ea42fed23c2c5e1fc836d30728eae5.jpg
+01:09:46	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/slideimage/11249/image/sample_pack_3-23313f375717e3e64e1fc738fde204ab.jpg
+01:10:30	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/medium/405/file/c82862846a702f1d538f97c0ee7f333f.gif
+01:13:02	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/medium/363/file/b44c193d991a31ab97f1bfa3d52f082b.jpg
+01:13:02	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/medium/362/file/b59882bb149d4018d43636f3bcc9f8ab.jpg
+01:13:02	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/137/1872/Bottle_Opener_Fridge_Magnet.jpg
+01:13:02	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/137/1956/Magnet_Opener_7013_100x75.jpg
+01:13:02	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/137/1957/Magnet_Rig_Multi_Birt_71093_100x75.jpg
+01:13:02	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/137/1958/Opener_Rect_Wedd_6734-1_100x75.jpg
+01:13:02	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/13314/image/c0ce4bcf5bac5f2d38dc50b7dacacc58.jpg
+01:13:02	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/13316/image/69d8dfa354e1616ee4017112e099d309.jpg
+01:13:02	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/13317/image/24af50cebe94f2bd8a180b9aa2d4a77c.jpg
+01:13:03	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/13318/image/769121e8edcbca550370861e155cec56.jpg
+01:13:38	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/82/3212/Badge_Hor_Fin_25425_Mockup.jpg
+01:13:38	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/82/1761/Badge_Hor_Fin_25425_100x75.jpg
+01:13:38	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/82/3211/Badge_Hor_Fin_25425_Mockup.jpg
+01:13:38	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/3443/image/badge_hor_5942_greenbiki-976d54ded1235be0042ce400ec2479b9.jpg
+01:13:38	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/3447/image/bad_pin_family_multi_multi_1871-e9bfcb4c7dfb7a3c3f6abda9bdf949c0.jpg
+01:13:38	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/83/3214/Badge_Ver_Fin_25429_Mockup.jpg
+01:13:38	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/83/1764/Badge_Ver_Fin_25429_100x75.jpg
+01:13:38	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/83/3213/Badge_Ver_Fin_25429_Mockup.jpg
+01:13:38	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/83/1741/Badge_Rect_6576_Mockup.psd_shutterstock_221763523_1000x750.jpg
+01:13:38	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/3448/image/bad_pin_family_multi_multi_1871-e9bfcb4c7dfb7a3c3f6abda9bdf949c0.jpg
+01:13:38	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/12376/image/bg_tri_lit_01-1da9655d28a19db6b3b0106f52b94eaf.jpg
+01:13:38	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/12383/image/bg_tri_lit_02-b5ca0c231384128bd6e37d53e8475dae.jpg
+01:14:27	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/90/2036/Mirror_76_9351_Lum.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/90/2039/Mirror_Fin_25489.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/85/1775/Magnet_R_Ro_25480_stock_256257484_Convertido__1468926842012_100x75.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/85/1052/RECROP_ROUND_MAGNET_2.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/85/1772/Magnet_R_Finish_1000x750.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/85/1773/Magnet_Rig_Ro_Wedd_0014_100x75.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/85/1774/Magnet_Rig_R_102-02_176_1468929891666_100x75.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/85/2346/Magnet_Rig_R_6551_.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/85/1771/Magnet_Rig_Ro_7190_V1_100x75.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/138/3300/Magnets_Rig_Rec_2300_lakewesley.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/138/3301/Magnets_Rig_Rec_2207_louvre.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/138/3302/Magnets_Rig_Rec_2207_louvre.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/138/1783/Rect_1_100x75.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/138/1787/Magnet_R_Rec_59403_100x75.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/86/1777/Cuadr_2_100x75.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/86/1778/Magnet_Rig_Sq_25415.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/86/1779/Magnet_Sq_Lum_5787_stock_327964397.jpg_1468937353291_100x75.jpg
+01:14:28	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/86/1781/Magnet_R_Sq_258006_100x75.jpg
+01:17:05	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/596/3191/Stickers_Sheet_Rect_W_29870.jpg
+01:17:05	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/596/3192/Stickers_Sheets_Multi_9794_det_100x75.jpg
+01:17:05	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/596/3193/Stickers_Sq_Promo_10169_Tartarus.jpg
+01:17:26	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/12715/image/sting_01-ca98f3acc056b28b5acb5cbae198ca76.jpg
+01:17:26	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/12716/image/sting_02-2f4567772eae760fc9b0150593def51a.jpg
+01:17:26	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/12717/image/sting_03-b485e530a277af1c55365a55b5b1bd1e.jpg
+01:17:26	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/12718/image/sting_04-811cfa19e37a954d694574831ba93616.jpg
+01:17:26	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/12719/image/sting_05-67585ba6730ec2013e08398b198fca37.jpg
+01:17:26	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/12727/image/dylan_00-348c319fd732bff76ee44afb840ad367.jpg
+01:17:26	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/12728/image/dylan_01-845ad2f26525dcf89c5ad0857f767db5.jpg
+01:17:26	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/12729/image/dylan_03-b5cb7d0c6cb8e97a71f7b89dee450797.jpg
+01:17:26	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/12731/image/dylan_09-c54f84b17d7560641d2121c8c1963d1f.jpg
+01:17:26	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/12732/image/dylan_05-b936ce1b62e39b2955bcd4b73cfd4a6a.jpg
+01:17:26	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/12734/image/queen_01-b105334aaadd8f8d77c5b396c88ee432.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/12735/image/queen_02-a11eaeb132001dc309f613285281931f.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/12736/image/queen_03-ab6ac2ae2ad1d0af163583ce7890b2e0.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/12737/image/queen_04-90d5a52aec21d118715b05db32ddf50a.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/12749/image/mini_01-bed576a7a79b3aa6d2feea5c24890030.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/12750/image/mini_02-dfc03d73e35b462ad32d998698024447.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/12751/image/mini_03-efe532e311d9810387b800418d2bef93.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/12752/image/mini_04-883096866de428337316b35b1804147d.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/12744/image/oasis_01-6d836545701d30e7b8704ed4ce713dbc.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/12745/image/oasis_02-12ffefeade22843673077e6fbe429988.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/12746/image/oasis_03-2bb372aef3780fdc13c76b188c828421.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/12747/image/oasis_04-1d72916a0d38039cfaa65a77d67b167b.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/12721/image/black_01-3680b286f0e0b3de52e56905ab61198f.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/12722/image/black_02-1feee97151f0ba7bab9f0e04b6d96565.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/12723/image/black_03-c9afb65ac48e086fc2846d745c679f60.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/12724/image/black_04-5d077a5826c29ebbad878f9e26b148d8.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/12725/image/black_05-ddf1796f126f74e6e78b19e399a3ae48.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/12754/image/whirl_01-9ecbe246d2229aae1a2069df7121e9fb.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/12755/image/whirl_02-4cf6b408ff5ebc78a4c1dd31fae05e8f.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/12757/image/whirl_04-ce9d394e8792d9b550f8e4ef94c0fa1f.jpg
+01:17:27	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/12758/image/whirl_05-cd02f9825e2def4e5630231abff063df.jpg
+01:18:44	Error: 	"Not Found" (404) at link https://camaloon.es/bolsas-personalizadas/mochilas-personalizadas/mochilas-de-poliester-para-portatil-de-15-con-lash-tab-y-bolsillo-delantero (from https://camaloon.es/bolsas-personalizadas/mochilas-y-fundas-personalizadas)
+01:18:53	Warning: 	Retry after error 500 (Internal Server Error) at link https://camaloon.es/merchandising-verano?filters%5B%5D=null&filters%5B%5D=&page=2 (from https://camaloon.es/merchandising-verano?filters%5B%5D=null)
+01:18:57	Error: 	"Not Found" (404) at link https://camaloon.es/personalized_cart_products/new (from https://camaloon.es/personalized_cart_products/new?variant_id=173&quantity=100)
+01:18:57	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/12715/image/sting_01-ca98f3acc056b28b5acb5cbae198ca76.jpg
+01:18:57	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/12717/image/sting_03-b485e530a277af1c55365a55b5b1bd1e.jpg
+01:18:57	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/12719/image/sting_05-67585ba6730ec2013e08398b198fca37.jpg
+01:19:19	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/13280/image/42f2c926768df94da69666b3946f98b3.jpg
+01:19:19	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/13279/image/c970127e619d4735bc9e6ed998109f43.jpg
+01:19:19	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/13282/image/977ccb25498f87578b3e5078b089b6bc.jpg
+01:19:19	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/13283/image/43dc1abb36c4c9790845b4f906404cc1.jpg
+01:19:19	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/13285/image/c57ed7d92ce90024a31689609cdd8bea.jpg
+01:19:19	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/13284/image/761238bb5759d3aed4e8b49dad9a9edf.jpg
+01:19:19	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/13276/image/eco_nevera-b41549e7a8a34b3dd787b134cfbbc8f9.jpg
+01:19:19	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/13281/image/34534ef615a94fdd0d60209d73e8e90e.jpg
+01:20:01	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/medium/353/file/800x600-5ccfce2fe84bb1eb3a8ba0eb85676b9e.jpg
+01:20:35	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/blog-image/4428/file/logo-custom-pen-1736edb5de38a71ee34f1bc2481d375c.jpg
+01:20:43	Error: 	"Not Found" (404) at link https://camaloon.es/descubre/artistas/sheldon-c/creaciones (from https://camaloon.es/blog?page=9)
+01:22:17	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/559/2953/Stickers_Rec_Cle_2420_BestW.jpg
+01:22:17	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/559/2549/Stickers_Rec_10311_perfect_copia.jpg
+01:22:17	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/559/2550/Stickers_Sheets_Sq_49994_abm_copia.jpg
+01:22:17	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/559/2961/Stickers_Rec_2134_vi_100x75.jpg
+01:22:17	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/559/2928/Stickers_Ov_101-54_cities100x75.jpg
+01:22:17	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/559/2958/Stickers_Ov_101-54_cities100x75.jpg
+01:22:17	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/559/2919/Stickers_Corner_10183_landscape_100x75.jpg
+01:22:17	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/559/2918/Stickers_Corner_10183_landscape_100x75.jpg
+01:22:17	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/559/2956/Stickers_Corner_10183_lemons_rouge_esq_punt_100x75.jpg
+01:22:17	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/559/2929/Stickers_Ro_101-62_100x75.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/559/2955/Stickers_Corner_10183_lemons_esq_red_100x75.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/559/2931/Stickers_Sq_2113_100x75.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/559/2524/Stickers_Sheets_Sq_49996_Tartarus_100x75.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/559/2916/Stickers_Ov_2112_bigideas_100x75.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/559/2528/Stickers_Ro_Desk__49958_abm_100x75.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/559/2530/Stickers_Sq_Desk_49958_abm_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/559/2932/Stickers_Sq_Car_1847_longface2.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/559/2954/Stickers_Sq_10219_100x75.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/559/2920/Stickers_Conjunto_B2b_101-44_.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/559/2553/Stickers_Sq_2113_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/559/2552/Stickers_Ro_Car_1842_longface2_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/559/2551/Stickers_Sq_Car_1847_longface2_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/559/2960/Stickers_Ro_10146_Multi_Design_100x75.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/559/2959/Stickers_Ro_Promo_10177_Healt_100x75.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/559/2957/Stickers_Ro_2114_lionzone_100x75.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/559/2952/Sticker_clear_sq_2319_just_100x75.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/559/2555/Stickers_Ov_Sm_10041_undeuxtrois__1_.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/559/2531/Sticker_sq_1888_aliceumbrella_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/565/2494/Stickers_Rec_10220.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/565/2485/Stickers_Multishape_Promo_10192_logos.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/565/2492/Stickers_Ro_10222.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/565/2487/Stickers_Ro_Promo_1881_striped.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/565/2491/Stickers_Sq_Promo_1880_jouvet.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/565/2486/Stickers_Rec_Promo_1882_auau.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/565/2498/Stickers_Sq_10219.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/565/2493/Stickers_Ov_10223.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/565/2489/Stickers_Corner_10183_lemons_rouge.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/565/2488/Stickers_Corner_10183_lemons_rouge.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/565/2497/Stickers_Rec_10252_stronger_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/565/2496/Stickers_Sq_10144_Multi_Design.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/565/2495/Stickers_Ov_Promo_1883_goodmonster.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/566/2426/Stickers_Multi_10279.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/12393/image/stickers_pers_701-03-36597afe2646b061f81c0282ffeb126b.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/598/3040/Stickers_silk_10075.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/598/3202/Stickers_ro_vin_15622_1.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/598/3201/Stickers_rect_vin_15624_1_rect.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/600/3182/Sticker_Clear_Ro_15554_weather.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/600/3180/Sticker_rec_custom_6010_monster.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/600/3181/Sticker_Clear_Rec_15536_wheels.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/563/2502/Stickers_Rec_2134_vi_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/563/2501/Stickers_Sq_1983_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/563/2412/Stickers_Ro_2048_Mockup_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/563/2504/Stickers_Bumper_Rec_Car_1831_walkingbird_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/563/2503/Stickers_Ov_Gr_2148_greenpowered_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/563/2409/Stickers_Bumper_Rec_Car_1831_ridethewave.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/563/2535/Stickers_Rec_Y_2123_ridethwave_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/563/2534/Stickers_Ro_2101_summerisover.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/563/2533/Stickers_Sq_2099_zebra.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/563/2536/Sticker_rec_pano_1888_lemonsmash.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/563/2538/Sticker_ov_1916_vi_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/563/2537/Sticker_sq_1910_dp_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/563/2540/Stickers_Sq_Car_1847_longface2_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/563/2539/Stickers_rect_car_1828_walkingbird_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/564/2545/Stickers_CS_Die_1986_Hello_100x75.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/564/2415/Stickers_CS_Die_2041_Law.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/564/2416/Stickers_CS_2103_Five_Y_copia.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/564/2547/Stickers_CS_2042_yes_100x75.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/561/3166/Sticker_Clear_rec_6022_dog.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/561/3168/Sticker_Clear_Rec_esq_rec_15532_tennis.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/561/3165/Sticker_Clear_ro_5979_free.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/561/3167/Sticker_Clear_rect_6017_monster.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/561/3169/Sticker_Clear_Ro_15565_tyre.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/561/3172/Sticker_clear_sq_2355_arctic_100x75.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/561/3170/Sticker_Clear_Rec_15540_sales.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/561/3190/Stickers_Remov_Sq_Car_1862_Five.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/561/3175/Sticker_Clear_Ro_15552_weather.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/561/3174/Sticker_clear_rec_esq_rec_2306_ins.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/562/3179/Sticker_Clear_custom_5963_last.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/562/3176/Sticker_Clear_custom_59673_app.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/562/3178/Sticker_Clear_custom_6031_burguer.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/562/3188/Sticker_Clear_custom_5989_organic.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/599/3039/Stickers_silk_10069_family_1000x750.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/images/product/599/3038/Sticker_Dc_15503_100x75.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/601/3184/Sticker_Clear_custom_5995_gluck.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/601/3185/Sticker_Clear_CS_15580_Kingslabel.jpg
+01:22:18	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/601/3186/Sticker_Clear_CS_15589_Organic.jpg
+01:22:21	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/13296/image/c0f8ebce1c42cecc5e5146cc9c17cb3c.jpg
+01:22:21	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/13295/image/38529a991d743e642c585a156756a826.jpg
+01:22:21	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/13297/image/bcec5de5496c6d79b83cff424f2c2cfe.jpg
+01:22:21	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/13298/image/c10101902662181027ac12401aee4b98.jpg
+01:22:21	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/13302/image/f3203214ed8f5fa398a01e71d166c749.jpg
+01:22:21	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/13272/image/premium_grupo-41e7d089f58bf29809a0fa9b0be55680.jpg
+01:22:21	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/13293/image/f95a530d3449b7239a62af948ac095c8.jpg
+01:23:02	Error: 	"Internal Server Error" (500) after 2 retries at link https://camaloon.es/merchandising-verano?filters%5B%5D=null&filters%5B%5D=&page=2 (from https://camaloon.es/merchandising-verano?filters%5B%5D=null)
+01:23:02	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/13274/image/eco_producto_personal-9d07667d5e53d3a7613ed351c93c709c.jpg
+01:23:02	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/13288/image/a3f48b5b80c14d081c33d6f899f9b53a.jpg
+01:23:02	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/13289/image/60da8b90c4e7f7db15a6c385441f09ac.jpg
+01:23:02	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/personalizedproductdescriptiveimage/13291/image/338ab8b4d98025962b772507cf17319f.jpg
+01:23:02	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/13290/image/ac2051537e78674605842ed30e01f6b3.jpg
+01:23:04	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/blog-image/4424/file/merchandising-fonzarelli-c183d3a3da7f47319d894ecb0e3d48d6.jpg
+01:23:22	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/medium/354/file/800x400-a574d988a5c0a6c4c34101152c96e77a.jpg
+01:24:34	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/blog/images/4322/1 (1)-302a98691b21092fb9d2b9c19d433cf9.gif
+01:24:42	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/blog-image/4427/file/custom-pens-with-logo-1a2ebadda65e87772191374c4fab26b8.jpg
+01:24:42	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/blog-image/4429/file/custom-pen-camaloon-736931c73536a3b897906bc52545b66d.jpg
+01:24:42	Error: 	"Not Found" (404) at link https://camaloon.es/descubre/artistas/sheldon-c/creaciones/rubik/camisetas-personalizadas/productos (from https://camaloon.es/blog/camisetas-sheldon-cooper)
+01:24:42	Error: 	"Not Found" (404) at link https://camaloon.es/descubre/artistas/sheldon-c/creaciones/evolution/camisetas-personalizadas/camisetas-personalizadas-hombre/productos (from https://camaloon.es/blog/camisetas-sheldon-cooper)
+01:24:42	Error: 	"Not Found" (404) at link https://camaloon.es/descubre/artistas/sheldon-c/creaciones/shazam/camisetas-personalizadas/camisetas-personalizadas-hombre/productos (from https://camaloon.es/blog/camisetas-sheldon-cooper)
+01:24:42	Error: 	"Not Found" (404) at link https://camaloon.es/descubre/artistas/sheldon-c/creaciones/bazinga/camisetas-personalizadas/productos (from https://camaloon.es/blog/camisetas-sheldon-cooper)
+01:24:42	Error: 	"Not Found" (404) at link https://camaloon.es/descubre/artistas/sheldon-c/creaciones/knock-knock-knock-penny/camisetas-personalizadas/camisetas-personalizadas-hombre/productos (from https://camaloon.es/blog/camisetas-sheldon-cooper)
+01:24:42	Error: 	"Error when decompressing" (-1) at link https://camaloon.es/descubre (from https://camaloon.es/blog/camisetas-sheldon-cooper)
+01:24:42	Error: 	"Not Found" (404) at link https://camaloon.es/descubre/creaciones (from https://camaloon.es/blog/camisetas-sheldon-cooper)
+01:24:42	Error: 	"Not Found" (404) at link https://camaloon.es/descubre/artistas/sheldon-c/creaciones/4-faces/camisetas-personalizadas/camisetas-personalizadas-mujer/productos (from https://camaloon.es/blog/camisetas-sheldon-cooper)
+01:25:11	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/13307/image/358fae624ab284bc38876d61b44d6899.jpg
+01:25:11	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/personalizedproductdescriptiveimage/13306/image/6b0c56fe32cf6d04fc6184cbf9039ed5.jpg
+01:25:11	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/personalizedproductdescriptiveimage/13305/image/c4c41c4fba95bc50455037081e16aa6e.jpg
+01:25:11	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/personalizedproductdescriptiveimage/13304/image/d18d2c79753c74130ab41d86bddfdab3.jpg
+01:25:24	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/137/1872/Bottle_Opener_Fridge_Magnet.jpg
+01:25:24	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/images/product/137/1956/Magnet_Opener_7013_100x75.jpg
+01:25:24	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/images/product/137/1957/Magnet_Rig_Multi_Birt_71093_100x75.jpg
+01:25:24	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/images/product/137/1958/Opener_Rect_Wedd_6734-1_100x75.jpg
+01:25:24	Warning: 	File not parsed, looks like binary: https://assets3.camaloon.media/uploads/blog-image/4426/file/fonzarelli-badges-406141a120dfd76b5a30f3b2f3d7f8f8.jpg
+01:25:24	Warning: 	File not parsed, looks like binary: https://assets0.camaloon.media/uploads/blog/images/4423/Blog_1 (6)-e61b08ce7165106ee016b0118dce3a01.jpg
+01:25:36	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/blog/images/4345/4 (1)-5e7baeb91bf3c5b2ab64b6cc32762ef8.jpg
+01:25:48	Warning: 	File not parsed, looks like binary: https://assets2.camaloon.media/uploads/blog/images/4347/Blog_Limón-494b15d469185454b7c327e7fe333d92.jpg
+01:26:08	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/blog/images/4273/5 (1)-c4b0bce22c679eca18f08011d2c00182.jpg
+01:26:08	Warning: 	File not parsed, looks like binary: https://assets1.camaloon.media/uploads/blog/images/4276/2 (1)-72f2b4391e46a73e898f8bab536c5b7f.jpg
+01:26:17	Warning: 	Retry after error 500 (Internal Server Error) at link https://camaloon.es/camisetas-personalizadas?filters%5B%5D=trait%2C22%2C300&filters%5B%5D=&page=2&sorting=popular (from https://camaloon.es/camisetas-personalizadas?sorting=popular&page=1&filters%5B%5D=trait%2C22%2C300)
+01:26:19	Warning: 	Retry after error 500 (Internal Server Error) at link https://camaloon.es/camisetas-personalizadas?filters%5B%5D=trait%2C22%2C300&filters%5B%5D=&page=2&sorting=popular (from https://camaloon.es/camisetas-personalizadas?sorting=popular&page=1&filters%5B%5D=trait%2C22%2C300)
+01:26:21	Error: 	"Internal Server Error" (500) after 2 retries at link https://camaloon.es/camisetas-personalizadas?filters%5B%5D=trait%2C22%2C300&filters%5B%5D=&page=2&sorting=popular (from https://camaloon.es/camisetas-personalizadas?sorting=popular&page=1&filters%5B%5D=trait%2C22%2C300)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 34 minutes 52 seconds : 5109 links scanned, 5090 files written (450638280 bytes overall) [268469767 bytes received at 47166 bytes/sec], 426698100 bytes transferred using HTTP compression in 4764 files, ratio 50%, 14.1 requests per connection
+(14 errors, 250 warnings, 0 messages)
